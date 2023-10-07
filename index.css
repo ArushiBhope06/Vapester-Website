@@ -49,16 +49,16 @@ html {
 
 @keyframes slideRight {
     0%, 100% {
-        background-image: url("C:/All Programming Stuff/My Projects/Persist Vape Website/Vapester Website/imgs/slider1.jpg")
+        background-image: url("slider1.jpg")
     }
     25% {
-        background-image: url("C:/All Programming Stuff/My Projects/Persist Vape Website/Vapester Website/imgs/slider2.jpg")
+        background-image: url("slider2.jpg")
     }
     50% {
-        background-image: url("C:/All Programming Stuff/My Projects/Persist Vape Website/Vapester Website/imgs/slider3.jpg")
+        background-image: url("slider3.jpg")
     }
     75% {
-        background-image: url("C:/All Programming Stuff/My Projects/Persist Vape Website/Vapester Website/imgs/slider4.jpg")
+        background-image: url("slider4.jpg")
     }
 }
 
